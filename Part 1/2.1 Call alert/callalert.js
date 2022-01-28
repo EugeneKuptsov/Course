@@ -1,3 +1,3 @@
 
-//console.log ('Hi Javascript');
-alert ('Hi Javascript');
+console.log ('Hi Javascript');
+//alert ('Hi Javascript');
